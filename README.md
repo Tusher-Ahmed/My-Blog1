@@ -1,4 +1,4 @@
-### `npm install` to download packages
+### `npm install` for download packages
 ### To watch json server : npx json-server --watch data/db.json --port 8000
 ### `npm start`
 
